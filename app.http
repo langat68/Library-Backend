@@ -1,0 +1,29 @@
+
+GET http://localhost:8000/ok/
+
+
+        //orders 
+###
+GET http://localhost:8000/books
+
+
+###
+POST http://localhost:8000/orders
+
+Content-Type: application/json
+
+
+
+###
+DELETE http://localhost:8000/
+
+
+
+
+                                   
+
+
+###
+GET http://localhost:8000/
+
+
